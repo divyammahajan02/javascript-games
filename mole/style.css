@@ -1,0 +1,21 @@
+.square {
+	width:  180px;
+	height: 180px;
+	border-style: solid;
+	background-image: url('soil.jpg');
+	border-color: black;
+}
+
+.grid {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+	align-content: center;
+	width: 618px;
+	height: 618px;
+}
+
+.mole {
+	background-image: url('mole2.png');
+	background-size: cover;
+}
