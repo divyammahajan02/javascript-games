@@ -7,6 +7,8 @@ const rock = document.getElementById('rock')
 const paper = document.getElementById('paper')
 const scissor = document.getElementById('scissor')
 
+let divyam = 1;
+
 
 function compChoice() {
 	let choice = ['rock', 'paper', 'scissor']
